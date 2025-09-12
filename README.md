@@ -74,11 +74,6 @@ I believe my **artist personality trait** is a lifelong asset:
 - **Summary:** Cleaned and visualized airline ticket data, compared pricing trends, and built insights.  
 - 📂 Repo: [View Project](https://github.com/abelgedle/airline-analysis)  
 
-### 2. Raincoat Manufacturing Feasibility Study  
-- **Tools:** Excel, Business Modeling  
-- **Summary:** Cost and operational analysis for local raincoat production in Uganda.  
-- 📂 Repo: [View Project](https://github.com/abelgedle/raincoat-feasibility)  
-
 ### 3. Digital Storytelling & Content  
 - **Tools:** Canva, Veed.io  
 - **Summary:** Created animated stories and promotional content for businesses.  

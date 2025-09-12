@@ -40,7 +40,7 @@ I believe my **artist personality trait** is a lifelong asset:
 
 ### 💻 Digital & Computer Skills
 - MS Office Suite  
-- Photoshop (PSD), Google Apps Script (GAS)  
+- Photoshop (PSD), Government Accounting System (GAS)  
 - Canva, Veed.io  
 
 ### 🌐 Languages

@@ -74,7 +74,7 @@ I believe my **artist personality trait** is a lifelong asset:
 - **Summary:** Cleaned and visualized airline ticket data, compared pricing trends, and built insights.  
 - 📂 Repo: [View Project](https://github.com/abelgedle/airline-analysis)  
 
-### 3. Digital Storytelling & Content  
+### 2. Digital Storytelling & Content  
 - **Tools:** Canva, Veed.io  
 - **Summary:** Created animated stories and promotional content for businesses.  
 - 🎥 YouTube: [View Channel](https://youtube.com/@yourchannel)  

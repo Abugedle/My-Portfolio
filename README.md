@@ -2,7 +2,7 @@
 
 ## Welcome to my **GitHub Portfolio**!  
 I am a **multidisciplinary professional** with expertise in **Data Analytics, Business & Accounting, Project Management, Education, and Fine Art**.  
-This blend of experiences shapes my ability to deliver **data-driven insights, practical business solutions, and creative storytelling** in the digital world.  
+This blend of experiences shapes my ability to deliver **data-driven insights, practical business solutions and creative storytelling** in the digital world.  
 
 ---
 

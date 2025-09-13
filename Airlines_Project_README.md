@@ -1,4 +1,4 @@
-# Airline Flights Data Analysis ✈️
+# Airlines Flights Data Analysis ✈️
 
 ## 📌 Overview
 This project analyzes airline flight prices to find insights about how 
